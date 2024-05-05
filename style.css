@@ -5,7 +5,10 @@
 
 body
 {
-    background-color: blueviolet;
+    background-image: url("https://cdn.britannica.com/32/93932-050-B213E0FB/ocean-water-beach-The-Bahamas-Grand-Bahama.jpg");
+
+    background-position: right;
+
 }
 
 .main
